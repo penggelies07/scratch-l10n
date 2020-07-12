@@ -390,6 +390,7 @@
     "matatacon.lightRingLedSingleSet1": "设置 [LED_INDEX] 灯为 [COLOR_TYPE], 亮度等级 [BRIGHTNESS_LEVEL]",
     "matatacon.lightRingLedSingleSet2": "设置第 [LED_INDEX] 颗灯为 [COLOR_VALUE]",
     "matatacon.lightRingLedSingleSet3": "设置第 [LED_INDEX] 颗灯 红色 [RED_VALUE] 绿色 [GREEN_VALUE] 蓝色 [BLUE_VALUE]",
+    "matatacon.lightRingLedSingleSet4": "设置LED灯盘 [PANEL]",
     "matatacon.lightRingShowEffect": "灯环显示 [LIGHT_EFFECT]",
     "matatacon.lightRingAllLedOff": "LED全部熄灭",
     "matatacon.sendIRMessage": "发送消息 [MESSAGE_INDEX]",

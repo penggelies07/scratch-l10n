@@ -390,6 +390,7 @@
     "matatacon.lightRingLedSingleSet1": "set [LED_INDEX] LED to [COLOR_TYPE] and brightness is level [BRIGHTNESS_LEVEL]",
     "matatacon.lightRingLedSingleSet2": "set LED [LED_INDEX] to color [COLOR_VALUE]",
     "matatacon.lightRingLedSingleSet3": "set LED [LED_INDEX] red [RED_VALUE] green [GREEN_VALUE] blue [BLUE_VALUE]",
+    "matatacon.lightRingLedSingleSet4": "set led lamp panel [PANEL]",
     "matatacon.lightRingShowEffect": "lamp ring show [LIGHT_EFFECT]",
     "matatacon.lightRingAllLedOff": "turn all LED off",
     "matatacon.sendIRMessage": "send message [MESSAGE_INDEX]",
